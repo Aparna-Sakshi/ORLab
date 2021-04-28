@@ -1,0 +1,24 @@
+_____________________________________________________
+All feasible solutions and value of objective function
+[6.0, 15.0, 3.0]  are the values for  ('x2', 'x4', 'x5')  with value of objective func = 30.0
+[24.0, 21.0, 9.0]  are the values for  ('x3', 'x4', 'x5')  with value of objective func = 0
+Optimal solution is  ([6.0, 15.0, 3.0], ('x2', 'x4', 'x5'))  and optimal value is  30.0
+_____________________________________________________
+All feasible solutions and value of objective function
+[42.22222222222223, 156.66666666666666, 218.88888888888886]  are the values for  ('x2', 'x3', 'x6')  with value of objective func = 1066.6666666666667
+[440.0, 470.0, 430.0]  are the values for  ('x4', 'x5', 'x6')  with value of objective func = 0
+Optimal solution is  ([42.22222222222223, 156.66666666666666, 218.88888888888886], ('x2', 'x3', 'x6'))  and optimal value is  1066.6666666666667
+_____________________________________________________
+All feasible solutions and value of objective function
+Optimal solution is  None  and optimal value is  NaN
+_____________________________________________________
+All feasible solutions and value of objective function
+[2.3333333333333335, 7.333333333333333, 19.333333333333336]  are the values for  ('x1', 'x5', 'x6')  with value of objective func = 2.3333333333333335
+[7.0, 12.0, 10.0]  are the values for  ('x4', 'x5', 'x6')  with value of objective func = 0
+Optimal solution is  ([7.0, 12.0, 10.0], ('x4', 'x5', 'x6'))  and optimal value is  0
+_____________________________________________________
+All feasible solutions and value of objective function
+[1.0000830767497368, 0.28576175814270677, 1.1432962628200372]  are the values for  ('x1', 'x2', 'x6')  with value of objective func = 3.571772746534624
+[1.0, 9.0, 1.0]  are the values for  ('x2', 'x5', 'x6')  with value of objective func = 2.0
+Optimal solution is  ([1.0000830767497368, 0.28576175814270677, 1.1432962628200372], ('x1', 'x2', 'x6'))  and optimal value is  3.571772746534624
+_____________________________________________________
